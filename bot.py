@@ -3,7 +3,7 @@ import requests
 import time
 from bs4 import BeautifulSoup
 
-token = "6821307147:AAE5xXy_y4QCoe2JNf22jLAEQ6nm54xrT4I"
+token = ""
 id_channel = "-1002034641376"
 bot = telebot.TeleBot(token)
 
